@@ -1,0 +1,5 @@
+INFO |00000.105|JanusDebugSession: readConfig: {"name":"Launch Script on Server","request":"launch","type":"janus","script":"","username":"admin","password":"","principal":"relations","host":"localhost","applicationPort":11000,"debuggerPort":8089,"currentConfiguration":true,"stopOnEntry":true,"log":{"fileName":"C:\\Users\\kim\\Desktop\\exercism\\javascript\\reverse-string/vscode-janus-debug-launch.log","logLevel":{"default":"Debug"}},"timeout":6000,"__sessionId":"ca26464e-9d1e-4df6-b03b-8fe4aa95fff6"}
+INFO |00000.106|JanusDebugSession: launchRequest
+ERROR|00000.109|JanusDebugSession: launchRequest failed: no script specified by user
+DEBUG|00000.109|DebugAdapterIPC: connected to VS Code extension
+INFO |00000.111|JanusDebugSession: disconnectRequest; debug adapter running in launch config
